@@ -1,8 +1,8 @@
 # AutoT2T
+Automated Text-to-Table for Reasoning-Intensive Table QA: Pipeline Design and Benchmarking Insights
 
 **AutoT2T** is a framework for automatically converting math word problems into table-based reasoning tasks, facilitating both dataset generation and large language model (LLM) evaluation in structured Table QA scenarios. This code repo consists of a data generation pipeline and a flexible evaluation module, designed to benchmark and analyze reasoning abilities across diverse table formats, augmentations, and LLM backends.
 
-Automated Text-to-Table for Reasoning-Intensive Table QA: Pipeline Design and Benchmarking Insights
 
 ## Generation for new table reason data
 
